@@ -39,6 +39,7 @@ def animate(i):
         except:
             y += 0
         xar.append(x)
+        
         yar.append(y)
 
     ax1.clear()
